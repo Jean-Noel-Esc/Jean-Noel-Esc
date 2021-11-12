@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jean-Noel-Esc&count_private=true&hide=stars,prs,issues))](https://github.com/anuraghazra/github-readme-stats)
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jean-Noel-Esc&repo=github-readme-stats" />
-</a>
+</a> -->
