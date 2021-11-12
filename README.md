@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 -->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jean-Noel-Esc&count_private=true&hide=stars,prs,issues))](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jean-Noel-Esc)](https://github.com/anuraghazra/github-readme-stats)
