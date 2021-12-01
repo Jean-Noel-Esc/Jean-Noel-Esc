@@ -24,5 +24,7 @@ Here are some ideas to get you started:
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jean-Noel-Esc&repo=github-readme-stats" />
 </a> -->
+TECH STACK
+<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="50" height="50"/>
 
 Days of code in a row : Current Streak 106
