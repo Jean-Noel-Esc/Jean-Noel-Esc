@@ -24,3 +24,6 @@ Here are some ideas to get you started:
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jean-Noel-Esc&repo=github-readme-stats" />
 </a> -->
+
+Days of code in a row :
+Current Streak: 106
