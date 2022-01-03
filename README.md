@@ -31,4 +31,4 @@ TECH STACK
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jean-Noel-Esc)](https://git.io/streak-stats)
 
 
-Days of code in a row : Current Streak 134!
+Days of code in a row : Current Streak 139!
