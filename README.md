@@ -24,7 +24,9 @@ Here are some ideas to get you started:
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jean-Noel-Esc&repo=github-readme-stats" />
 </a> -->
-TECH STACK 
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jean-Noel-Esc)](https://git.io/streak-stats)
+
 </br>
 <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="PHP Logo" width="50" height="50"/>
@@ -33,8 +35,5 @@ TECH STACK
 <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React Logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/xampp.svg" alt="Xampp Logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" alt="Bootstrap Logo" width="50" height="50"/>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jean-Noel-Esc)](https://git.io/streak-stats)
-
 
 Days of code in a row : Current Streak 147!
