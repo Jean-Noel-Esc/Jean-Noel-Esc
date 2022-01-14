@@ -27,7 +27,8 @@ Here are some ideas to get you started:
 TECH STACK 
 </br>
 <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="50" height="50"/>
-<img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="PHP Logo" width="50" height="50"/>" 
+<img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="PHP Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" alt="Bootstrap Logo" width="50" height="50"/>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jean-Noel-Esc)](https://git.io/streak-stats)
